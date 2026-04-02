@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FTC Safety Solutions | AI Dashboard</title>
+    <!-- We will use Inter to approximate Avenir Roman if Avenir is unavailable locally -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="logo-container">
+            <img src="FTC Transparent Logo.png" alt="FTC Safety Solutions" class="logo-img">
+        </div>
+        <div class="navbar-stats">
+            <div class="stat-pill" id="stat-articles">
+                <span class="stat-label">Articles</span>
+                <span class="stat-count" id="count-articles">0</span>
+            </div>
+            <div class="stat-pill saved" id="stat-saved">
+                <span class="stat-label">Saved</span>
+                <span class="stat-count" id="count-saved">0</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="dashboard-hero">
+        <div class="hero-content">
+            <span class="badge">Last 24 Hours</span>
+            <h1>Artificial Intelligence<br><span class="highlight">Safety & News</span></h1>
+            <p>Your daily pulse on AI news, tools, and insights relevant to modern industrial solutions.</p>
+        </div>
+
+        <div class="dashboard-controls">
+            <h2>Latest Insights</h2>
+            <div class="filters">
+                <button class="filter-btn active" data-filter="all">All Sources</button>
+                <button class="filter-btn" data-filter="saved">Saved Articles</button>
+            </div>
+        </div>
+
+        <section class="grid-container" id="articles-grid">
+            <!-- Articles injected via JS -->
+            <!-- Placeholder Card -->
+            <div class="article-card loading">
+                <div class="img-skeleton"></div>
+                <div class="text-skeleton"></div>
+                <div class="text-skeleton short"></div>
+            </div>
+            <div class="article-card loading">
+                <div class="img-skeleton"></div>
+                <div class="text-skeleton"></div>
+                <div class="text-skeleton short"></div>
+            </div>
+            <div class="article-card loading">
+                <div class="img-skeleton"></div>
+                <div class="text-skeleton"></div>
+                <div class="text-skeleton short"></div>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,139 @@
+{
+  "articles": [
+    {
+      "id": "t3_1sa8xt3",
+      "source": "Reddit (r/artificial)",
+      "title": "Building an AI agent that finds repos and content relevant to my work",
+      "url": "https://www.reddit.com/r/artificial/comments/1sa8xt3/building_an_ai_agent_that_finds_repos_and_content/",
+      "summary": "I kept missing interesting stuff on HuggingFace, arXiv, Substack etc., so I made an agent that sends a weekly summary of only what\u2019s relevant, for free\n\nAny thoughts on the idea?",
+      "published_date": "2026-04-02T05:44:32+00:00",
+      "image_url": ""
+    },
+    {
+      "id": "t3_1sabr5t",
+      "source": "Reddit (r/artificial)",
+      "title": "List up Fav Multi AI AI Open Source Projects",
+      "url": "https://www.reddit.com/r/artificial/comments/1sabr5t/list_up_fav_multi_ai_ai_open_source_projects/",
+      "summary": "As the toual says and why.  So many out there whats ur go to. ",
+      "published_date": "2026-04-02T08:36:55+00:00",
+      "image_url": ""
+    },
+    {
+      "id": "t3_1sa3yds",
+      "source": "Reddit (r/artificial)",
+      "title": "MIT researchers use AI to uncover atomic defects in materials",
+      "url": "https://www.reddit.com/r/artificial/comments/1sa3yds/mit_researchers_use_ai_to_uncover_atomic_defects/",
+      "summary": "In biology, defects are generally bad. But in materials science, defects can be intentionally tuned to give materials useful new properties. Today, atomic-scale defects are carefully introduced during...",
+      "published_date": "2026-04-02T01:38:53+00:00",
+      "image_url": "https://external-preview.redd.it/b8NV8IJeTnGo7-_4VhOrNXt4CQOKYMQr98Pq3UoMuc4.jpeg?auto=webp&s=23400609ccfa89fa9d63f6329d51f818a8c6b52f"
+    },
+    {
+      "id": "t3_1sa4vlm",
+      "source": "Reddit (r/artificial)",
+      "title": "Input on an experiment",
+      "url": "https://www.reddit.com/r/artificial/comments/1sa4vlm/input_on_an_experiment/",
+      "summary": "I have 3.000 credits at NightCafe AI image generator with a lot of different models and options. I want to conduct some kind of experiment, preferably text-to-image/video. I want to push limits of mod...",
+      "published_date": "2026-04-02T02:20:13+00:00",
+      "image_url": ""
+    },
+    {
+      "id": "t3_1sa3tn1",
+      "source": "Reddit (r/artificial)",
+      "title": "New Research Directions in Materials Science with AI",
+      "url": "https://www.reddit.com/r/artificial/comments/1sa3tn1/new_research_directions_in_materials_science_with/",
+      "summary": "In the rapidly advancing field of materials science, the unveiling of innovative research directions often hinges on the ability to process and interpret vast quantities of complex data. In a groundbr...",
+      "published_date": "2026-04-02T01:33:10+00:00",
+      "image_url": "https://external-preview.redd.it/BmtClCMT7eBUHt_wQCL960-3MV4m8rnpDwJyUkcEY08.jpeg?auto=webp&s=3fd5ce0667085dcaa660d5b7a48c4839c81ec1e5"
+    },
+    {
+      "id": "t3_1sa42c8",
+      "source": "Reddit (r/artificial)",
+      "title": "The Magic of Machine Learning That Powers Enemy AI in Arc Raiders",
+      "url": "https://www.reddit.com/r/artificial/comments/1sa42c8/the_magic_of_machine_learning_that_powers_enemy/",
+      "summary": "\"... it doesn't take a trained eye to see that, even at a glance, the enemies in Arc Raiders feel fundamentally different from traditional game AI. They don\u2019t follow rigid patterns or scripted behavio...",
+      "published_date": "2026-04-02T01:43:56+00:00",
+      "image_url": "https://external-preview.redd.it/QGlxQrf9GQxI8HY0srhg-mk725Hi9BtAFY3Y0ba2R5g.png?auto=webp&s=5fa44ee8de06dcccff036d62d4c2144734d8c880"
+    },
+    {
+      "id": "t3_1s9us4j",
+      "source": "Reddit (r/artificial)",
+      "title": "How Claude Web tried to break out its container, provided all files on the system, scanned the networks, etc",
+      "url": "https://www.reddit.com/r/artificial/comments/1s9us4j/how_claude_web_tried_to_break_out_its_container/",
+      "summary": "Originally wasn't going to write about this - on one hand thought it's prolly already known, on the other hand I didn't feel like it was adding much even if it wasn't.\n\nBut anyhow, looking at the disc...",
+      "published_date": "2026-04-01T19:30:34+00:00",
+      "image_url": ""
+    },
+    {
+      "id": "t3_1s9p4tl",
+      "source": "Reddit (r/artificial)",
+      "title": "Combining the robot operating system with LLMs for natural-language control",
+      "url": "https://www.reddit.com/r/artificial/comments/1s9p4tl/combining_the_robot_operating_system_with_llms/",
+      "summary": "Over the past few decades, robotics researchers have developed a wide range of increasingly advanced robots that can autonomously complete various real-world tasks. To be successfully deployed in real...",
+      "published_date": "2026-04-01T16:15:50+00:00",
+      "image_url": "https://external-preview.redd.it/LqKMgM7pEhuXH1et0u-hOQVmW6XY6CQu96WHwaASZzs.jpeg?auto=webp&s=e6fa9a8fed4ead54af9fa29563506691af737798"
+    },
+    {
+      "id": "t3_1sae8jt",
+      "source": "Reddit (r/artificial)",
+      "title": "AI-powered drones detect explosive threats to keep soldiers safe",
+      "url": "https://www.reddit.com/r/artificial/comments/1sae8jt/aipowered_drones_detect_explosive_threats_to_keep/",
+      "summary": "",
+      "published_date": "2026-04-02T11:01:23+00:00",
+      "image_url": "https://external-preview.redd.it/2fRxOnSF7MJ9b3aArdKIqlWcnNaIIeZTsJ4aYx-0RKs.png?auto=webp&s=6ab9c399d2d1449c0ba9a22c6450dbf892954cee"
+    },
+    {
+      "id": "t3_1sae4r1",
+      "source": "Reddit (r/artificial)",
+      "title": "I am doing a multi-model graph database in pure Rust with Cypher, SQL, Gremlin, and native GNN looking for extreme speed and performance",
+      "url": "https://www.reddit.com/r/artificial/comments/1sae4r1/i_am_doing_a_multimodel_graph_database_in_pure/",
+      "summary": "Hi guys,\n\n  \nI'm a PhD student in Applied AI and I've been building an embeddable graph database engine from scratch in Rust. I'd love feedback from people who actually work with graph databases daily...",
+      "published_date": "2026-04-02T10:55:55+00:00",
+      "image_url": "https://external-preview.redd.it/eLXas9Ew7CdQKina0EwschZV8Mz-9Cm6H20XjTzCVow.png?auto=webp&s=caa50d07e9745074e889074cecf0f8be2315148f"
+    },
+    {
+      "id": "t3_1saaa5s",
+      "source": "Reddit (r/artificial)",
+      "title": "Unemployment Benefits in CA",
+      "url": "https://www.reddit.com/r/artificial/comments/1saaa5s/unemployment_benefits_in_ca/",
+      "summary": "The unemployment benefits in CA has NOT changed in 21 year, regardless of the increase in the cost of living. CA pays a MAX benefit of only $450/week. It is IMPOSSIBLE to get by on $450/week while act...",
+      "published_date": "2026-04-02T07:04:36+00:00",
+      "image_url": "https://external-preview.redd.it/9ybDmoDAOW0-AEz5w1OdEyp_4_q49zlcvmEuKhpaF8E.jpeg?auto=webp&s=0ba0c70e5c1ed7b0649fc6910fe79b627395feb1"
+    },
+    {
+      "id": "t3_1s9v5cn",
+      "source": "Reddit (r/artificial)",
+      "title": "The Turing Grid: A digitalised Turing tape computer",
+      "url": "https://www.reddit.com/r/artificial/comments/1s9v5cn/the_turing_grid_a_digitalised_turing_tape_computer/",
+      "summary": "\\\\# The Turing Grid\n\nThink of it as an infinite 3D spreadsheet where every cell can run code. (Edit: this is capped actually at +/- 2000 to stop really large numbers from happening).\n\nCoordinates: Eve...",
+      "published_date": "2026-04-01T19:43:08+00:00",
+      "image_url": ""
+    },
+    {
+      "id": "t3_1s9pg8i",
+      "source": "Reddit (r/artificial)",
+      "title": "Diffusion-based AI model successfully trained in electroplating",
+      "url": "https://www.reddit.com/r/artificial/comments/1s9pg8i/diffusionbased_ai_model_successfully_trained_in/",
+      "summary": "Electrochemical deposition, or electroplating, is a common industrial technique that coats materials to improve corrosion resistance and protection, durability and hardness, conductivity and more. A L...",
+      "published_date": "2026-04-01T16:26:43+00:00",
+      "image_url": "https://external-preview.redd.it/X_ZF5cUZDGsdr4ezrQSlNPi_67xY_hXsMZAvu49pcQI.jpeg?auto=webp&s=1548b4882823680a60c6a3cbbb1153f593a5d850"
+    },
+    {
+      "id": "t3_1sacme5",
+      "source": "Reddit (r/artificial)",
+      "title": "Chatgpt vs purpose built ai for cre underwriting: which one can finish the job?",
+      "url": "https://www.reddit.com/r/artificial/comments/1sacme5/chatgpt_vs_purpose_built_ai_for_cre_underwriting/",
+      "summary": "I keep seeing people recommend chatgpt for financial modeling and I need to push back because I spent a month testing it for multifamily underwriting and the results were not close to usable.\n\nPasting...",
+      "published_date": "2026-04-02T09:30:13+00:00",
+      "image_url": ""
+    },
+    {
+      "id": "t3_1sac299",
+      "source": "Reddit (r/artificial)",
+      "title": "AI overly affirms users asking for personal advice | Researchers found chatbots are overly agreeable when giving interpersonal advice, affirming users' behavior even when harmful or illegal.",
+      "url": "https://www.reddit.com/r/artificial/comments/1sac299/ai_overly_affirms_users_asking_for_personal/",
+      "summary": "",
+      "published_date": "2026-04-02T08:55:32+00:00",
+      "image_url": ""
+    }
+  ]
+}
