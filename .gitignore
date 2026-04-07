@@ -1,0 +1,21 @@
+# Environment variables - never commit secrets
+.env
+.env.local
+.env.*.local
+
+# Scraped data / temp files - generated at runtime
+.tmp/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+tools/scrapers/__pycache__/
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db

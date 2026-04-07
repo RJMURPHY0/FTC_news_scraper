@@ -14,9 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // In production this would fetch from /api/articles or supabase
     const fetchArticles = async () => {
         try {
-            // For now, try to load from the python generated json file
-            // Alternatively, load mock data if file not found via HTTP Server
-            const response = await fetch('/.tmp/articles.json');
+            // Try loading pre-scraped articles.json from the dashboard root
+            // On Vercel this is a static file; locally it's served by server.js
+            const response = await fetch('/articles.json');
             if (response.ok) {
                 const data = await response.json();
                 articles = data.articles || [];

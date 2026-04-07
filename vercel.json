@@ -1,0 +1,16 @@
+{
+  "outputDirectory": "dashboard",
+  "buildCommand": "",
+  "installCommand": "",
+  "framework": null,
+  "routes": [
+    {
+      "src": "/articles.json",
+      "dest": "/articles.json"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}

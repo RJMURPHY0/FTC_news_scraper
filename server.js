@@ -23,13 +23,8 @@ http.createServer((req, res) => {
 
   let urlPath = req.url === '/' ? '/index.html' : decodeURIComponent(req.url);
 
-  // Allow fetching .tmp/articles.json from project root
-  let filePath;
-  if (urlPath.startsWith('/.tmp/')) {
-    filePath = path.join(__dirname, urlPath);
-  } else {
-    filePath = path.join(ROOT, urlPath);
-  }
+  // All files served from the dashboard/ directory
+  let filePath = path.join(ROOT, urlPath);
 
   const ext = path.extname(filePath);
   const contentType = mimeTypes[ext] || 'text/plain';
