@@ -2,6 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <script>
+        window.addEventListener('error', function(e) {
+            const errDiv = document.createElement('div');
+            errDiv.style = 'position: fixed; top: 10px; left: 10px; background: red; color: white; z-index: 9999; padding: 10px; white-space: pre-wrap; font-family: monospace; border: 2px solid white; border-radius: 4px;';
+            errDiv.innerText = 'JS Error: ' + e.message + '\n' + e.filename + ':' + e.lineno;
+            document.body.appendChild(errDiv);
+        });
+        window.addEventListener('unhandledrejection', function(e) {
+            const errDiv = document.createElement('div');
+            errDiv.style = 'position: fixed; top: 10px; right: 10px; background: orange; color: white; z-index: 9999; padding: 10px; white-space: pre-wrap; font-family: monospace; border: 2px solid white; border-radius: 4px;';
+            errDiv.innerText = 'Promise Rejection: ' + (e.reason && e.reason.message ? e.reason.message : e.reason);
+            document.body.appendChild(errDiv);
+        });
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FTC Safety Solutions | AI Dashboard</title>
     <!-- We will use Inter to approximate Avenir Roman if Avenir is unavailable locally -->
@@ -27,12 +41,23 @@
     </header>
 
     <main class="dashboard-hero">
+        <!-- Top border -->
+        <div class="hero-border"></div>
+
+        <!-- Waves Container -->
+        <div id="waves-banner"></div>
+
+        <!-- Bottom border -->
+        <div class="hero-border"></div>
+
         <div class="hero-content">
             <span class="badge">Last 24 Hours</span>
             <h1>Artificial Intelligence<br><span class="highlight">Safety & News</span></h1>
             <p>Your daily pulse on AI news, tools, and insights relevant to modern industrial solutions.</p>
         </div>
+    </main>
 
+    <div class="content-wrapper">
         <div class="dashboard-controls">
             <h2>Latest Insights</h2>
             <div class="filters">
@@ -60,8 +85,12 @@
                 <div class="text-skeleton short"></div>
             </div>
         </section>
-    </main>
+    </div>
 
     <script src="app.js"></script>
+    <script type="module">
+        import { initWaves } from './waves.js';
+        initWaves('#waves-banner');
+    </script>
 </body>
 </html>
