@@ -22,3 +22,13 @@ Thumbs.db
 
 # Generated knowledge graph (rebuilt locally, never committed)
 graphify-out/
+
+# Secrets: never commit (standard block, 2026-10-27)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+prod-env.txt
